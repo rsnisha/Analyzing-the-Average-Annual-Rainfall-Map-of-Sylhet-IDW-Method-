@@ -1,4 +1,4 @@
-# 🌧 Analyzing the Average Annual Rainfall Map of Sylhet (IDW Method) 🌧
+# Analyzing the Average Annual Rainfall Map of Sylhet (IDW Method) 🌧
 
 This repository features an analysis of the Average Annual Rainfall Map for the Sylhet region in Bangladesh. The map was generated using the Inverse Distance Weighting (IDW) interpolation method and is based on five years of data from the Climate Hazards Group InfraRed Precipitation (CHRS). Below is a breakdown of the key insights and observations from the analysis.
 
